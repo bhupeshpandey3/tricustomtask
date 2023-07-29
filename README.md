@@ -1,7 +1,7 @@
 # tricustomtask
 GCP infra with Terraform
 
-// Project Overview
+** Project Overview **
 This documentation provides an overview and step-by-step guide for deploying the infrastructure for the project using Terraform. The infrastructure is designed to support the project's requirements and consists of four modules: gke, vpc, sqldatabase, and vm. These modules work together to set up a Google Kubernetes Engine (GKE) cluster, Virtual Private Cloud (VPC), SQL database, and virtual machine (VM) instances.
 Prerequisites
 Before proceeding with the infrastructure deployment, ensure you have the following prerequisites:
